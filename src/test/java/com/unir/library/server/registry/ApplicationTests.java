@@ -1,10 +1,10 @@
-package com.unir.library_server_registry;
+package com.unir.library.server.registry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LibraryServerRegistryApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
